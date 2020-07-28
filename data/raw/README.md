@@ -1,0 +1,1 @@
+This directory houses all the raw and unprocessed data files in this project.
